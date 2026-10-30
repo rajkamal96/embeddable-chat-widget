@@ -1,0 +1,18 @@
+{
+  "id": "acme-dental",
+  "name": "Acme Dental",
+  "assistantName": "Acme Assistant",
+  "themeColor": "#0f766e",
+  "welcomeMessage": "Hi! I can answer questions about Acme Dental using this website's content. This is a demo with a fictional practice.",
+  "suggestedQuestions": [
+    "How much is teeth whitening?",
+    "Are you open on Saturdays?",
+    "Do you take insurance?",
+    "What do you offer?"
+  ],
+  "allowedOrigins": ["http://localhost:3000", "http://127.0.0.1:3000", "http://localhost:3100"],
+  "allowSameOrigin": true,
+  "baseUrl": "",
+  "contactHint": "calling the front desk on (555) 010-0142",
+  "demo": true
+}

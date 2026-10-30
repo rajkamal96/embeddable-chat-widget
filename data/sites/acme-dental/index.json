@@ -1,0 +1,284 @@
+{
+  "site": "acme-dental",
+  "generatedAt": "2026-10-30T20:33:16.969Z",
+  "pages": [
+    {
+      "title": "Dental emergencies",
+      "href": "/demo/emergency"
+    },
+    {
+      "title": "Frequently asked questions",
+      "href": "/demo/faq"
+    },
+    {
+      "title": "Hours and location",
+      "href": "/demo/hours-location"
+    },
+    {
+      "title": "Acme Dental – family dentistry in Springfield",
+      "href": "/demo"
+    },
+    {
+      "title": "Insurance and payment",
+      "href": "/demo/insurance-payment"
+    },
+    {
+      "title": "New patients",
+      "href": "/demo/new-patients"
+    },
+    {
+      "title": "Pricing",
+      "href": "/demo/pricing"
+    },
+    {
+      "title": "Our services",
+      "href": "/demo/services"
+    },
+    {
+      "title": "Our team",
+      "href": "/demo/team"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "demo-emergency#1",
+      "title": "Dental emergencies",
+      "heading": "Same-day emergency appointments",
+      "href": "/demo/emergency#same-day-emergency-appointments",
+      "text": "Dental emergencies > Same-day emergency appointments\nIf you have severe tooth pain, a broken or knocked-out tooth, or a swollen face, call us as early as you can. We keep a few same-day emergency slots each weekday, and calls before 10:00 am have the best chance of getting one.",
+      "overview": true
+    },
+    {
+      "id": "demo-emergency#2",
+      "title": "Dental emergencies",
+      "heading": "Outside opening hours",
+      "href": "/demo/emergency#outside-opening-hours",
+      "text": "Dental emergencies > Outside opening hours\nOur voicemail is checked every evening and every Saturday morning. If swelling affects your breathing or swallowing, or after a serious injury, go to the nearest hospital emergency department or call your local emergency number."
+    },
+    {
+      "id": "demo-faq#1",
+      "title": "Frequently asked questions",
+      "heading": "Is treatment painful?",
+      "href": "/demo/faq#is-treatment-painful",
+      "text": "Frequently asked questions > Is treatment painful?\nWe use local anaesthetic for fillings, root canals and implants, and we explain each step before we start. Tell us at any time if you want a break.",
+      "overview": true
+    },
+    {
+      "id": "demo-faq#2",
+      "title": "Frequently asked questions",
+      "heading": "Do you help nervous patients?",
+      "href": "/demo/faq#do-you-help-nervous-patients",
+      "text": "Frequently asked questions > Do you help nervous patients?\nYes. We offer nitrous oxide (laughing gas) for anxious patients and longer appointments so nobody feels rushed. We do not offer general anaesthesia or IV sedation."
+    },
+    {
+      "id": "demo-faq#3",
+      "title": "Frequently asked questions",
+      "heading": "How often should I have a check-up?",
+      "href": "/demo/faq#how-often-should-i-have-a-check-up",
+      "text": "Frequently asked questions > How often should I have a check-up?\nMost patients should have a check-up and cleaning every six months. The dentist may suggest a different schedule for you."
+    },
+    {
+      "id": "demo-faq#4",
+      "title": "Frequently asked questions",
+      "heading": "Do you see emergencies?",
+      "href": "/demo/faq#do-you-see-emergencies",
+      "text": "Frequently asked questions > Do you see emergencies?\nYes, we keep same-day emergency slots on weekdays. See the Dental emergencies page."
+    },
+    {
+      "id": "demo-faq#5",
+      "title": "Frequently asked questions",
+      "heading": "Can I bring my child?",
+      "href": "/demo/faq#can-i-bring-my-child",
+      "text": "Frequently asked questions > Can I bring my child?\nYes. We see children from age 2, and a parent stays with the child during the visit."
+    },
+    {
+      "id": "demo-hours-location#1",
+      "title": "Hours and location",
+      "heading": "Opening hours",
+      "href": "/demo/hours-location#opening-hours",
+      "text": "Hours and location > Opening hours\n- Monday to Thursday: 8:00 am to 5:00 pm\n- Friday: 8:00 am to 2:00 pm\n- Saturday: 9:00 am to 1:00 pm, by appointment only\n- Sunday: closed\n\nWe are closed on public holidays.",
+      "overview": true
+    },
+    {
+      "id": "demo-hours-location#2",
+      "title": "Hours and location",
+      "heading": "Find us",
+      "href": "/demo/hours-location#find-us",
+      "text": "Hours and location > Find us\nAcme Dental is at 214 Maple Street, Springfield. The building is wheelchair accessible. There is free parking behind the building, and the nearest bus stop is Maple and 3rd."
+    },
+    {
+      "id": "demo-hours-location#3",
+      "title": "Hours and location",
+      "heading": "Contact",
+      "href": "/demo/hours-location#contact",
+      "text": "Hours and location > Contact\nPhone (555) 010-0142, email hello@acmedental.example. We answer calls during opening hours and reply to emails within one working day."
+    },
+    {
+      "id": "demo#1",
+      "title": "Acme Dental – family dentistry in Springfield",
+      "heading": "Acme Dental",
+      "href": "/demo#acme-dental",
+      "text": "Acme Dental – family dentistry in Springfield > Acme Dental\nAcme Dental is a friendly family dental practice in Springfield. We look after children, adults and anxious patients, and we aim to keep visits calm, clear and on time.",
+      "overview": true
+    },
+    {
+      "id": "demo#2",
+      "title": "Acme Dental – family dentistry in Springfield",
+      "heading": "Acme Dental > What we do",
+      "href": "/demo#what-we-do",
+      "text": "Acme Dental – family dentistry in Springfield > Acme Dental > What we do\nWe offer check-ups and cleanings, fillings, teeth whitening, clear aligners, dental implants, root canal treatment and children's dentistry. Details and prices are on our Services and Pricing pages."
+    },
+    {
+      "id": "demo#3",
+      "title": "Acme Dental – family dentistry in Springfield",
+      "heading": "Acme Dental > Book a visit",
+      "href": "/demo#book-a-visit",
+      "text": "Acme Dental – family dentistry in Springfield > Acme Dental > Book a visit\nCall the front desk on (555) 010-0142 or email hello@acmedental.example. We are open Monday to Saturday; see Hours and location for the exact times. New patients are welcome."
+    },
+    {
+      "id": "demo#4",
+      "title": "Acme Dental – family dentistry in Springfield",
+      "heading": "Acme Dental > About this site",
+      "href": "/demo#about-this-site",
+      "text": "Acme Dental – family dentistry in Springfield > Acme Dental > About this site\nThis is a fictional practice used to demonstrate an embeddable AI chat widget. Nothing here is a real business, price or person."
+    },
+    {
+      "id": "demo-insurance-payment#1",
+      "title": "Insurance and payment",
+      "heading": "Insurance",
+      "href": "/demo/insurance-payment#insurance",
+      "text": "Insurance and payment > Insurance\nWe are in-network with SunShield Dental and BlueHarbor Dental plans. For other plans we can give you an itemised receipt to claim back yourself. Please bring your insurance card to your first visit so we can check your cover.",
+      "overview": true
+    },
+    {
+      "id": "demo-insurance-payment#2",
+      "title": "Insurance and payment",
+      "heading": "Ways to pay",
+      "href": "/demo/insurance-payment#ways-to-pay",
+      "text": "Insurance and payment > Ways to pay\nWe accept major credit and debit cards, bank transfer, and HSA or FSA cards. We do not accept cheques. Payment is due at the time of treatment unless you have agreed a payment plan."
+    },
+    {
+      "id": "demo-new-patients#1",
+      "title": "New patients",
+      "heading": "Your first visit",
+      "href": "/demo/new-patients#your-first-visit",
+      "text": "New patients > Your first visit\nA first visit takes about 60 minutes. It includes a full examination, X-rays if you need them, a cleaning when time allows, and a plan explained in plain language. You will get a written quote for any treatment before it begins.",
+      "overview": true
+    },
+    {
+      "id": "demo-new-patients#2",
+      "title": "New patients",
+      "heading": "What to bring",
+      "href": "/demo/new-patients#what-to-bring",
+      "text": "New patients > What to bring\nPlease bring a photo ID, your insurance card if you have one, a list of any medicines you take, and any recent dental X-rays from your previous dentist."
+    },
+    {
+      "id": "demo-new-patients#3",
+      "title": "New patients",
+      "heading": "Forms",
+      "href": "/demo/new-patients#forms",
+      "text": "New patients > Forms\nYou can fill in the new patient form online before your visit, or arrive 10 minutes early and complete it at the front desk."
+    },
+    {
+      "id": "demo-new-patients#4",
+      "title": "New patients",
+      "heading": "Cancellations",
+      "href": "/demo/new-patients#cancellations",
+      "text": "New patients > Cancellations\nPlease give us at least 24 hours notice if you need to change or cancel an appointment. Late cancellations and missed appointments may be charged a $40 fee."
+    },
+    {
+      "id": "demo-pricing#1",
+      "title": "Pricing",
+      "heading": "",
+      "href": "/demo/pricing#pricing",
+      "text": "Pricing\nAll prices are estimates in US dollars and may change after an examination. You will always get a written quote before treatment starts.",
+      "overview": true
+    },
+    {
+      "id": "demo-pricing#2",
+      "title": "Pricing",
+      "heading": "Price list",
+      "href": "/demo/pricing#price-list",
+      "text": "Pricing > Price list\n- Check-up with X-rays: $95\n- Professional cleaning: $120\n- Composite filling: from $150 per tooth\n- In-office teeth whitening: $349\n- Take-home whitening kit: $199\n- Root canal treatment: from $750\n- Clear aligners: free consultation, treatment from $2,800\n- Dental implant: consultation $75, implant and crown from $2,400\n- Children's check-up and cleaning (under 12): $85"
+    },
+    {
+      "id": "demo-pricing#3",
+      "title": "Pricing",
+      "heading": "Payment plans",
+      "href": "/demo/pricing#payment-plans",
+      "text": "Pricing > Payment plans\nFor treatment over $500 we offer interest-free payment plans over 6 or 12 months. Ask the front desk to set one up before your treatment starts."
+    },
+    {
+      "id": "demo-services#1",
+      "title": "Our services",
+      "heading": "Check-ups and cleaning",
+      "href": "/demo/services#check-ups-and-cleaning",
+      "text": "Our services > Check-ups and cleaning\nA routine check-up includes an examination, digital X-rays when needed, and advice on your home care. A professional cleaning removes plaque and tartar. We suggest a check-up and cleaning every six months for most patients.",
+      "overview": true
+    },
+    {
+      "id": "demo-services#2",
+      "title": "Our services",
+      "heading": "Fillings",
+      "href": "/demo/services#fillings",
+      "text": "Our services > Fillings\nWe repair cavities with tooth-coloured composite fillings that match your natural teeth. Most fillings take one visit of about 45 minutes."
+    },
+    {
+      "id": "demo-services#3",
+      "title": "Our services",
+      "heading": "Teeth whitening",
+      "href": "/demo/services#teeth-whitening",
+      "text": "Our services > Teeth whitening\nWe offer two options: in-office whitening, done in one visit of about 75 minutes, and a take-home whitening kit with custom trays that you use for two weeks. Whitening is not suitable for everyone, and the dentist will check your teeth and gums first."
+    },
+    {
+      "id": "demo-services#4",
+      "title": "Our services",
+      "heading": "Clear aligners",
+      "href": "/demo/services#clear-aligners",
+      "text": "Our services > Clear aligners\nClear aligners are removable plastic trays that gradually straighten teeth. Dr. Tom Alvarez plans every case. Treatment usually takes between 6 and 18 months. We do not currently offer metal braces."
+    },
+    {
+      "id": "demo-services#5",
+      "title": "Our services",
+      "heading": "Dental implants",
+      "href": "/demo/services#dental-implants",
+      "text": "Our services > Dental implants\nDental implants replace a missing tooth with a titanium post and a crown. The process takes several months because the bone needs time to heal. A consultation with a 3D scan is needed before we can confirm a plan."
+    },
+    {
+      "id": "demo-services#6",
+      "title": "Our services",
+      "heading": "Root canal treatment",
+      "href": "/demo/services#root-canal-treatment",
+      "text": "Our services > Root canal treatment\nRoot canal treatment removes infected tissue from inside a tooth to save it. Most root canals are completed in one or two visits, using local anaesthetic."
+    },
+    {
+      "id": "demo-services#7",
+      "title": "Our services",
+      "heading": "Children's dentistry",
+      "href": "/demo/services#children-s-dentistry",
+      "text": "Our services > Children's dentistry\nWe see children from age 2. Visits are short and gentle, with fluoride treatment and sealants available. Parents stay with their child during the visit."
+    },
+    {
+      "id": "demo-team#1",
+      "title": "Our team",
+      "heading": "Dr. Meera Iyer, principal dentist",
+      "href": "/demo/team#dr-meera-iyer-principal-dentist",
+      "text": "Our team > Dr. Meera Iyer, principal dentist\nDr. Iyer leads the practice and focuses on general dentistry, fillings, root canal treatment and dental implants. She has led the practice since it opened.",
+      "overview": true
+    },
+    {
+      "id": "demo-team#2",
+      "title": "Our team",
+      "heading": "Dr. Tom Alvarez, dentist",
+      "href": "/demo/team#dr-tom-alvarez-dentist",
+      "text": "Our team > Dr. Tom Alvarez, dentist\nDr. Alvarez plans our clear aligner cases and looks after children's dentistry."
+    },
+    {
+      "id": "demo-team#3",
+      "title": "Our team",
+      "heading": "Sam Okafor, dental hygienist",
+      "href": "/demo/team#sam-okafor-dental-hygienist",
+      "text": "Our team > Sam Okafor, dental hygienist\nSam carries out professional cleanings and gives home-care advice, including help with brushing technique for children."
+    }
+  ]
+}
